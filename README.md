@@ -49,6 +49,7 @@ Compare AutoCAD design calculations (voltage drops, cable sizes) with ETAP simul
 
 
 **Results**
+
 Load Flow Analysis: Stable bus voltages, safe transformer utilization, and controlled system losses
 
 Short Circuit Analysis: Fault levels verified at all buses, with peak fault currents reaching ~65-70 kA near the transformer
